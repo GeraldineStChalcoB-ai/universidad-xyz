@@ -35,4 +35,6 @@ npm install
 npm start
 ```
 ## Pruebas
+```
 npm test
+```
