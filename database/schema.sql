@@ -1,4 +1,4 @@
---Base de datos del microservicio de los Estudiantes
+-- Base de datos del microservicio de los Estudiantes
 CREATE DATABASE IF NOT EXISTS estudiantes_db;
 USE estudiantes_db;
 
@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS estudiantes (
   carrera VARCHAR(100) NOT NULL
 );
 
---Base de datos del microservicio de los Cursos
+-- Base de datos del microservicio de los Cursos
 CREATE DATABASE IF NOT EXISTS cursos_db;
 USE cursos_db;
 
