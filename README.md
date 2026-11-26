@@ -27,7 +27,7 @@ Opción1: Visual Studio code, Node.js, Express, MySQL, Jest, Supertest, Git y Gi
 - `DELETE /recurso/:id` elimina
 
 ## Como ejecutarlo
-1. Se crea las bases `estudiantes_db` y `cursos_db` en MySQL, con las tablas `estudiantes` y `cursos`.
+1. Ejecutar database/schema.sql en su MySQL para crear las bases de datos y tablas.
 2. En cada servicio, crear un `.env` a partir de `.env.example` con su contraseña de MySQL.
 3. En cada carpeta de servicio:
 ```
